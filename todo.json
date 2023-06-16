@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "task": "할 일 1",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "task": "할 일 2",
+    "completed": true
+  }
+]
